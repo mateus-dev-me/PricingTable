@@ -1,0 +1,121 @@
+body, h1{
+    font-family: 'Open Sans';
+    margin:0;
+	padding:0;
+}
+img {
+    padding-right: 10px;
+}
+hr {
+    margin: 0;
+    width: 320px;
+    justify-content: center;
+}
+
+/*  Header */
+.header{
+    text-align: center;
+    background-color: #1d539e;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.header h1{
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 65.37px;
+}
+
+/*  FlexBox */
+.flex-conteiner{
+    display: flex;
+    position: relative;
+    top: -130px;
+    justify-content: center;
+}
+.flex-item {
+    background-color: #f9fbfc;
+    width: 355px;
+    height: 470px;
+    box-shadow: 1px 1px 1px rgba(142, 150, 185, 0.25);
+    border-radius: 8px;
+    padding: 0;
+    margin-left: 20px;
+    position: relative;
+    justify-content: center;
+}
+
+.flex-basico {
+    height: 490px;
+    top: -10px;
+}
+
+/* Buttons */
+.buttom{
+    background-color: white;
+    border: 2px solid #1d539e;
+    border-radius: 12px;
+    color: #1d539e;
+    font-size: 20px;
+    height: 51px;
+    width: 296px;
+
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    left: 29px;
+    bottom: 30px;
+}
+
+.buttom-basico{
+    background-color: #1d539e;
+    color: white;
+    top: 399px;
+}
+.buttom-basico span{
+    background-color: #1d539e;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 20px 8px 20px;
+    margin-left: 169px;
+}
+.basico{
+    background-color: #ffcc29;
+    color: #1d539e;
+    padding: 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-weight: bolder;
+    margin-bottom: -25px;
+}
+
+/*  Text */
+.text-conteiner {
+    padding-left: 20px;
+    color: #828799;
+}
+
+.text-price {
+    color: black;
+    font-weight: bolder;
+}
+.text-price-weight{
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 49px;
+}
+
+
+span.text-plan {
+    color: black;
+    display: block;
+    padding: 30px;
+}
+
+.text-assets {
+    font-weight: bolder;
+}
+
+.flex-item span{
+    margin-bottom: -55px;
+}

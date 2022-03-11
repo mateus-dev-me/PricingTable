@@ -21,6 +21,6 @@ As tecnologias usadas foram:
 
 ## Preview :computer:
 
-Acesse a página: [**Princing Table**](https://mateus-sousa23.github.io/PrincingTable/)
+Acesse a página: [**Princing Table**](https://mateus-sousa23.github.io/PricingTable/)
 
 <img src="./readme-files/project-image.png" width="720px"/>

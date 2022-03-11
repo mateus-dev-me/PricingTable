@@ -16,13 +16,11 @@ As tecnologias usadas foram:
 
 - HTML
 - CSS
-- JavaScript
 
 ---
 
 ## Preview :computer:
 
-Acesse a página: [**Desafio Sidebar**](https://matheus-lincon.github.io/sidebar/)
+Acesse a página: [**Princing Table**](https://mateus-sousa23.github.io/PrincingTable/)
 
-<img src="./readme-files/preview-close.png" width="320px"/>
-<img src="./readme-files/preview-open.png" width="320px"/>
+<img src="./readme-files/project-image.png" width="720px"/>
